@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Youssef Osama Shaaban
 
-<!--
-**Youssef-Shaaban-Analytics/Youssef-Shaaban-Analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Landscape & Agricultural Engineer 
 
-Here are some ideas to get you started:
+I combine engineering problem-solving with data analytics to transform complex operational and business data into clear, interactive dashboards and actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Core Skills & Tools
+- **Data Analytics & BI:** Microsoft Power BI, Power Query, DAX, Data Cleaning, Data Storytelling.
+- **Data Manipulation:** Advanced Microsoft Excel (Pivot Tables, Functions), SQL.
+- **Engineering Knowledge:** Landscape Engineering, Irrigation Systems, Resource Efficiency.
+
+## 📊 What I Do
+- 🔍 Extracting and cleaning unstructured data.
+- 📈 Building interactive dashboards for stakeholders.
+- 💡 Translating raw numbers into data-driven business decisions.
+
+## 📫 Let's Connect!
+- **LinkedIn:** [ https://www.linkedin.com/in/youssef-osama-shaaban ]
+- **Email:** uossef2410@gmail.com
